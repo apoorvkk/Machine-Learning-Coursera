@@ -1,4 +1,4 @@
-# Machine Learning Course
+# Coursera's Machine Learning Course
 
 These are my personal solutions to Andrew Ng's Machine Learning Stanford Course.
 I will be uploading weekly assignments that I have completed here.
